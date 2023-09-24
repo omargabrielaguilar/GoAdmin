@@ -3,5 +3,6 @@ build:
 
 run: build
 	@./bin/go-management
+
 test:
 	@go test -v ./...
